@@ -19,7 +19,7 @@ Every mod here is a chaotic, spicy, sometimes cursed piece of Minecraft magic �
 | --------------------- | -------- |
 | `Spicy!`              | ✅ Released |
 | `Grimace`             | ✅ Released |
-| `Herobrine Comes Back`| ✅ Released |
+| `Herobrine Comes Back`| ❌ Released |
 
 Each mod has its own `README-<mod name>.md` file in this repo.  
 Check them out to learn more about how each one works!
@@ -37,7 +37,7 @@ Check them out to learn more about how each one works!
 ## 🔥 Installation
 
 1. Install NeoForge for Minecraft `1.21.4`
-2. Download the `.jar` from the [Mods](../../releases) folder in this repo.
+2. Download the `.jar` from the [Mods]([https://github.com/HamzahHossam12121/NeoForge-Cool-Mods-/tree/main/Mods) folder in this repo.
 3. Drop it into your `mods` folder
 4. Launch Minecraft and enjoy!
 
@@ -45,7 +45,7 @@ Check them out to learn more about how each one works!
 
 ## 📣 Usage & Licensing
 
-You are **free to play** and **make videos** using these mods (credit appreciated).  
+You are **free to play** and **make videos** using these mods (credit appreciated). Mention credits and the Github username. 
 You are **not allowed** to reupload or modify them without permission.  
 Keep it respectful, and give props where props are due!
 
