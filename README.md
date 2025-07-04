@@ -37,7 +37,7 @@ Check them out to learn more about how each one works!
 ## 🔥 Installation
 
 1. Install NeoForge for Minecraft `1.21.4`
-2. Download the `.jar` from the [Releases](../../releases) section
+2. Download the `.jar` from the [Mods](../../releases) folder in this repo.
 3. Drop it into your `mods` folder
 4. Launch Minecraft and enjoy!
 
