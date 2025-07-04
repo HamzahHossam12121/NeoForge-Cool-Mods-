@@ -8,7 +8,7 @@ Every mod here is a chaotic, spicy, sometimes cursed piece of Minecraft magic �
 ## 🧠 About the Author
 
 **👤 Name**: Hamzah  
-**⚡ Age**: 12  
+**⚡ Age**: 12 BUT behaves like a 24-year old nerd.
 **🧪 Interests**: Minecraft modding, programming (C, C#, Python), glitchy experiments, blowing up logic, and exploring what happens when chickens touch spicy sauce.
 
 ---
