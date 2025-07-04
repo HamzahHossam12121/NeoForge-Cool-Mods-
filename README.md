@@ -19,7 +19,7 @@ Every mod here is a chaotic, spicy, sometimes cursed piece of Minecraft magic �
 | --------------------- | -------- |
 | `Spicy!`              | ✅ Released |
 | `Grimace`             | ✅ Released |
-| `Herobrine Comes Back`| ❌ Released |
+| `Herobrine Comes Back`| ❌ Released (Under Development) |
 
 Each mod has its own `README-<mod name>.md` file in this repo.  
 Check them out to learn more about how each one works!
