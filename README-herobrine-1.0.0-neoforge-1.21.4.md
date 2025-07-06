@@ -1,6 +1,6 @@
 # Herobrine Helps! Kinda...
 
-![Herobrine Banner](images/1.png)
+![Herobrine Banner](images/1.jpg)
 
 > A friendly Herobrine mod... until night falls. 😈  
 > Created with NeoForge 1.21.4 by Hamzah
