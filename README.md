@@ -13,7 +13,7 @@ Every mod here is a chaotic, spicy, sometimes cursed piece of Minecraft magic �
 
 ---
 
-## 📦 Current Mods (NeoForge, Minecraft 1.21.4+)
+## 📦 Current Mods (NeoForge, Minecraft 1.21.x)
 
 | Mod Name              | Status   |
 | --------------------- | -------- |
@@ -28,15 +28,15 @@ Check them out to learn more about how each one works!
 
 ## 🛠️ Requirements
 
-- **Minecraft Version**: 1.21.4  
+- **Minecraft Version**: 1.21.x  
 - **Mod Loader**: [NeoForge](https://neoforged.net/)  
-- **Built With**: MCreator 2025.2  
+- **Built With**: MCreator 2025.2 Or JetBrains IntelliJ
 
 ---
 
 ## 🔥 Installation
 
-1. Install NeoForge for Minecraft `1.21.4`
+1. Install NeoForge for Minecraft `1.21.x`
 2. Download the `.jar` from the [Mods]([https://github.com/HamzahHossam12121/NeoForge-Cool-Mods-/tree/main/Mods) folder in this repo.
 3. Drop it into your `mods` folder
 4. Launch Minecraft and enjoy!
