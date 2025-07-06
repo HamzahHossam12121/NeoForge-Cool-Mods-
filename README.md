@@ -60,3 +60,4 @@ Follow the repo, star it, and come back later — new mods will keep showing up 
 
 > “They removed Herobrine? Not if I add him back.”  
 > – Hamzah, probably
+> - If it is Camman18 visiting this repo, please showcase some of my mods in your videos, espically my Herobrine mod, and showcase each version, Thanks alot!
