@@ -43,9 +43,9 @@ But at night, he becomes a **chaotic menace** who might destroy villages, break 
 
 ## 🖼️ Screenshots
 
-| Daytime | Nighttime |
-|--------|-----------|
-| ![Day](images/2.png) | ![Night](images/3.png) |
+| Daytime | Nighttime | Fence |
+|--------|-----------|------------|
+| ![Day](images/2.png) | ![Night](images/3.png) | ![Fence](images/4.png) |
 
 > *"You tied Herobrine to a fence? That's illegal."*
 
